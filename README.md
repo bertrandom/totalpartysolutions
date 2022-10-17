@@ -18,8 +18,6 @@ Sound effects were acquired from all over the Internet, but some sources were:
 
 and recordings that I recorded using the Voice Memos iOS app of my daughter and edited and exported as WAV files with Audacity.
 
-The name is based on a [now-defunct soundboard](https://web.archive.org/web/20110207202541/http://totalpartysolutions.com/) ([source](https://github.com/standardpixel/totalpartysolutions.com)) that [Eric](http://standardpixel.com/) used at the Flickr office to finish our jokes.
-
 ## Basic setup (OS X)
 
 Clone the repo somewhere:
