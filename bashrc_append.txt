@@ -1,6 +1,9 @@
-# start totalpartysolutions
+
+
+# start totalpartysolutions on non-SSH login
 case $SSH_CONNECTION in
   '')
     cd $HOME/totalpartysolutions
     ./loop.sh
 esac
+
