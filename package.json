@@ -1,0 +1,14 @@
+{
+  "name": "totalpartysolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bertrand Fan <bert@bert.org>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
+}
