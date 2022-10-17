@@ -2,7 +2,7 @@
 
 [![video of kid playing soundboard](https://i.ytimg.com/vi/LTqFutAWEPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=LTqFutAWEPM)
 
-This is a keyboard controlled soundboard for kids to play with that I made when my daughter had a runny nose and had to stay home from school. It can run on your Mac or a Raspberry PI with a speaker and external keyboard attached. It's surprisingly difficult to find a portable speaker that accepts an AUX input nowadays, but [here](https://smile.amazon.com/dp/B01MTB55WH?psc=1&ref=ppx_yo2ov_dt_b_product_details) is the one that I'm using. If you don't want to build this, a [Blipblox](https://blipblox.com/) seems like a good commercial alternative.
+This is a keyboard controlled soundboard for kids to play with that I made when my daughter had a runny nose and had to stay home from school. It can run on your Mac or a Raspberry PI (if you can find one! Any SBC with a 3.5mm output will do) with a speaker and external keyboard attached. It's surprisingly difficult to find a portable speaker that accepts an AUX input nowadays, but [here](https://smile.amazon.com/dp/B01MTB55WH?psc=1&ref=ppx_yo2ov_dt_b_product_details) is the one that I'm using. If you don't want to build this, a [Blipblox](https://blipblox.com/) seems like a good commercial alternative.
 
 Almost every key on the keyboard corresponds to a different sound effect that my daughter and I curated. The SPACEBAR and ENTER keys both correspond to different fart sounds. F1-F12 are loops, 1-9 and 0 are various synth hits. There's a wide range of sound effects, including the AOL "You've got mail!" sound and the ICQ "uh-oh" sound. For better or for worse, one of the effects is the iOS notification sound.
 
