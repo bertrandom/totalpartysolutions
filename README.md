@@ -1,6 +1,6 @@
 # totalpartysolutions
 
-[![video of kid playing soundboard](https://i.ytimg.com/vi_webp/LTqFutAWEPM/maxresdefault.webp)](https://www.youtube.com/watch?v=LTqFutAWEPM)
+[![video of kid playing soundboard](https://i.ytimg.com/vi/LTqFutAWEPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=LTqFutAWEPM)
 
 This is a keyboard controlled soundboard for kids to play with that I made when my daughter had a runny nose and had to stay home from school. It can run on your Mac or a Raspberry PI with a speaker and external keyboard attached. It's surprisingly difficult to find a portable speaker that accepts an AUX input nowadays, but [here](https://smile.amazon.com/dp/B01MTB55WH?psc=1&ref=ppx_yo2ov_dt_b_product_details) is the one that I'm using.
 
