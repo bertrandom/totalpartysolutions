@@ -7,8 +7,11 @@ Almost every key on the keyboard corresponds to a different sound effect that my
 Sound effects were acquired from all over the Internet, but some sources were:
 
 [Expert Software's 5000 Sound Effects CD](https://archive.org/details/5000-snds)
+
 [My Instants](https://www.myinstants.com/en/best_of_all_time/us/)
+
 [wavparty - Tron F. Kennedy "Me & Julio" sample pack](https://wavparty.com/downloads/tron-f-kennedy-me-and-julio-sample-pack/)
+
 [BigSoundBank.com](https://bigsoundbank.com/)
 
 and recordings that I recorded using the Voice Memos iOS app of my daughter and edited and exported as WAV files with Audacity.
