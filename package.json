@@ -9,6 +9,7 @@
   "author": "Bertrand Fan <bert@bert.org>",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.3.7"
+    "config": "^3.3.7",
+    "winston": "^3.8.2"
   }
 }
