@@ -1,0 +1,14 @@
+keymaps 0-127
+keycode  99 = +Q
+keycode  70 = +W
+keycode 119 = +E
+keycode  15 = +R
+keycode  58 = +T
+keycode  42 = +Y
+keycode  29 = +U
+keycode 125 = +I
+keycode  56 = +O
+keycode 100 = +P
+keycode 127 = +A
+keycode  97 = +S
+keycode  54 = +D

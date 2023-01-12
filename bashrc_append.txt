@@ -3,7 +3,8 @@
 # start totalpartysolutions on non-SSH login
 case $SSH_CONNECTION in
   '')
+    sudo /usr/bin/loadkeys /home/bertrand/remap.kmap
+    /usr/bin/aplay /home/bertrand/totalpartysolutions/data/winxp-startup.wav
     cd $HOME/totalpartysolutions
     ./loop.sh
 esac
-
