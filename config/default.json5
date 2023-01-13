@@ -31,8 +31,7 @@
         "8": "chirping",
 
 
-        // "9": "??? roar ???",
-        "9": "lightsaber",
+        "9": "roar",
 
 
 
@@ -87,8 +86,7 @@
         "pageup": "jawa-utini",
 
 
-        // "delete": "??? r2d2 ???",
-        "delete": "lightsaber",
+        "delete": "r2d2",
 
 
 
